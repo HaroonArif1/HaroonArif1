@@ -33,10 +33,6 @@ I am a **Cybersecurity Specialist** and **Cybersecurity Analyst** with expertise
 📚 **Currently Learning**:  
 - Advanced cloud security practices  
 - Vulnerability management solutions for consumer electronics  
-
-📬 **Reach Me**:  
-- LinkedIn: [Haroon Arif](https://www.linkedin.com/in/haroonarf/)  
-
 ---
 
 ### 🔧 Languages, Tools, and Frameworks  
